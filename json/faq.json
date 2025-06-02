@@ -1,0 +1,14 @@
+[
+    {"index": 1, 
+    "question": "What types of industrial products do you offer?",
+    "answer": "We specialize in providing a diverse range of industrial products, including machinery, equipment, and supplies tailored to meet the unique needs of various sectors."
+    },
+    {"index": 2, 
+    "question": "How can I place an order for your products?",
+    "answer": "Placing an order is simple and convenient. Navigate to the product page, select the desired quantity, and click 'Add to Cart.' Follow the intuitive checkout process, providing necessary details."
+    },
+    {"index": 3, 
+    "question": "Are there any warranties on your products?",
+    "answer": "Our commitment to customer satisfaction means that if you encounter any issues, our support team is ready to assist and find a swift resolution."
+    }
+]

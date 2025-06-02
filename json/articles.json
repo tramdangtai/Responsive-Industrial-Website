@@ -1,0 +1,17 @@
+[
+    {"index": 1,
+    "date": "Mar 19, 2023",
+    "title": "Revolutionizing: The Latest in Industrial Innovation",
+    "category": "Innovation",
+    "image": "article-1.jpg"},
+    {"index": 2,
+    "date": "May 05, 2023",
+    "title": "Spotlight: Enhancing Operations with Our Industrial Solutions",
+    "category": "Products",
+    "image": "article-2.jpg"},
+    {"index": 3,
+    "date": "Aug 24, 2023",
+    "title": "Navigating: Expert Perspectives on Industrial Dynamics",
+    "category": "Insights",
+    "image": "article-3.jpg"}
+]
